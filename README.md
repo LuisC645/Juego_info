@@ -1,2 +1,2 @@
-# Juego_c-
-Juego realizado en c++
+# Juego_c- Guerras y peleas durante la Masacre de las Bananeras  
+En diciembre de 1928, bajo el cielo sofocante de la región bananera del Magdalena, en el aire se respiraba el olor a fruta madura y sudor, sin embargo, esto no era lo único que se sentía en el aire…  Había un presagio metálico que silenciaba incluso a las cigarras, como si algo muy malvado, estuviese a punto de ocurrir. La historia recuerda este acontecimiento como un derramamiento de sangre, pero en las sombras, la huelga se libró también contra la pólvora y codicia extranjera. 
